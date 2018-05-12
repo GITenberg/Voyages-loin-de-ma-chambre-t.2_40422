@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8507
     wikipedia: https://fr.wikipedia.org/wiki/Noémie_Dondel_du_Faouëdic
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40422#Voyages-loin-de-ma-chambre-t.2
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2012-08-04'
 gutenberg_type: Text
