@@ -1,0 +1,32 @@
+_repo: Voyages-loin-de-ma-chambre-t.2_40422
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40422-h/images/cover_lg.png
+creator:
+  author:
+    agent_name: Dondel Du Faouëdic, Noémie
+    aliases:
+    - Faouëdic, Noémie Dondel Du
+    - Dondel Du Faouedic, Noemie
+    - Le Coq de Kerneven, Noémie
+    birthdate: 1834
+    deathdate: 1915
+    gutenberg_agent_id: '8507'
+    url: http://www.gutenberg.org/2009/agents/8507
+    wikipedia: https://fr.wikipedia.org/wiki/Noémie_Dondel_du_Faouëdic
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2012-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40422'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+title: Voyages loin de ma chambre t.2
+url: http://www.gutenberg.org/ebooks/40422
